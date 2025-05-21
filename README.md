@@ -1,37 +1,47 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">Anchal Jethliya</span></h1>
-<h3 align="center">🚀 Final-Year IT Student | 💻 Full Stack Learner | ☁️ Cloud Explorer | 🤖 ML Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF">Anchal Jethliya</span></h1>
+<h3 align="center">💻 B.Tech IT | Full Stack Developer | Cloud Enthusiast | ML Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+profile!;I+love+building+cool+tech+projects.;Always+learning+and+growing+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+tech+learner.;Let's+build+something+awesome+💫" />
 </p>
 
 ---
 
-### 🌟 About Me
-- 🎓 B.Tech in **Information Technology**, 3rd Year  
-- 🏫 Studying at **Shri Ramdeobaba College of Engineering & Management**, Nagpur  
-- 🌱 Currently diving into **Web Dev**, **Cloud (Azure/AWS)**, and **Machine Learning**
-- 📫 Reach me at: [anchaljethliya@gmail.com](mailto:anchaljethliya@gmail.com)
-- 💬 Ask me about: Full Stack Projects, GitHub, or Azure Labs!
+### 👩‍💻 About Me
+
+- 🎓 Final Year B.Tech in Information Technology  
+- 🏫 Shri Ramdeobaba College of Engineering and Management, Nagpur  
+- 🔭 Currently working on: **Uber Clone** & **Skill Enhancement Companion**  
+- 🌱 Learning: **React**, **Cloud (Azure/AWS)**, **Machine Learning**  
+- 📬 Reach me: [anchaljethliya@gmail.com](mailto:anchaljethliya@gmail.com)  
+- 💡 Fun fact: I believe debugging teaches patience better than meditation 😄
 
 ---
 
-### 🔧 Tech Stack
+### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,azure,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,azure,firebase,figma" />
 </p>
 
 ---
 
-### 🚀 Projects I'm Building
+### 🚀 My Projects
 
-| 💡 Project | 🔍 Description |
+| 📌 Project | 🛠️ Description |
 |-----------|----------------|
-| 🚖 **Uber Clone** | Frontend complete, backend integration in progress |
-| 🌿 **Medicinal Plant Identifier** | Uses ML & image processing to identify herbs accurately |
-| ☁️ **Azure + AWS Lab Setups** | Hands-on labs for VM, load balancing, snapshots, storage |
-| 🤖 **Skill Enhancement Companion** | Your personalized guide for mastering tech & career skills |
+| 🚖 **Uber Clone** | A responsive cab booking frontend. Backend in progress. |
+| 🌿 **Medicinal Plant Identifier** | Image-based ML model to detect and classify medicinal herbs. |
+| ☁️ **Azure + AWS Labs** | Hands-on cloud labs: VMs, snapshots, DNS, load balancers, and more. |
+| 🎯 **Skill Enhancement Companion** | Personalized guide for growing tech, soft, and career skills. |
+
+---
+
+### 📈 LeetCode Journey
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Anchaljethliya?theme=dark&font=baloo&animation=true)](https://leetcode.com/u/Anchaljethliya/)
+
+🔸 Solving challenges on LeetCode to improve DSA, algorithms, and interview skills.
 
 ---
 
@@ -42,12 +52,12 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaljethliya&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=anchaljethliya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anchaljethliya&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/anchaljethliya" target="_blank">
@@ -59,8 +69,11 @@
   <a href="https://github.com/anchaljethliya" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/Anchaljethliya/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-<p align="center"><b>✨ Thank you for visiting! Let's build something awesome together. ✨</b></p>
+<p align="center"><b>🚀 Thanks for visiting! Let's learn, build, and grow together. 💫</b></p>
