@@ -1,53 +1,66 @@
-<h1 align="center">Hi 👋, I'm Anchal Jethliya</h1>
-<h3 align="center">Information Technology Student | Web Dev Enthusiast | ML Explorer | Azure Learner</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">Anchal Jethliya</span></h1>
+<h3 align="center">🚀 Final-Year IT Student | 💻 Full Stack Learner | ☁️ Cloud Explorer | 🤖 ML Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+profile!;I+love+building+cool+tech+projects.;Always+learning+and+growing+🌱" alt="Typing SVG" />
+</p>
 
 ---
 
-🎓 **B.Tech - Information Technology (3rd Year)**  
-🏫 **Shri Ramdeobaba College of Engineering & Management (RCOEM), Nagpur**  
-🚀 Actively learning and building in the fields of Full-Stack Web Development, Cloud Computing, and Machine Learning.
+### 🌟 About Me
+- 🎓 B.Tech in **Information Technology**, 3rd Year  
+- 🏫 Studying at **Shri Ramdeobaba College of Engineering & Management**, Nagpur  
+- 🌱 Currently diving into **Web Dev**, **Cloud (Azure/AWS)**, and **Machine Learning**
+- 📫 Reach me at: [anchaljethliya@gmail.com](mailto:anchaljethliya@gmail.com)
+- 💬 Ask me about: Full Stack Projects, GitHub, or Azure Labs!
 
 ---
 
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+### 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,azure,firebase" />
+</p>
 
 ---
 
-### 🛠️ Projects I'm Working On:
-- 🔁 **Uber Clone** – Frontend ready, backend integration in progress  
-- 🌿 **Medicinal Plant Identifier** – ML + Image Processing + Streamlit  
-- ☁️ **Azure + AWS Lab Deployments** – Cloud infra hands-on demos  
-- 🧠 **Skill Enhancement Companion** – A smart assistant to guide learners through programming, tech skills, and career preparation  
+### 🚀 Projects I'm Building
+
+| 💡 Project | 🔍 Description |
+|-----------|----------------|
+| 🚖 **Uber Clone** | Frontend complete, backend integration in progress |
+| 🌿 **Medicinal Plant Identifier** | Uses ML & image processing to identify herbs accurately |
+| ☁️ **Azure + AWS Lab Setups** | Hands-on labs for VM, load balancing, snapshots, storage |
+| 🤖 **Skill Enhancement Companion** | Your personalized guide for mastering tech & career skills |
 
 ---
 
 ### 📊 GitHub Stats
 
-![Anchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anchaljethliya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anchaljethliya&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=anchaljethliya&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=anchaljethliya&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anchaljethliya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaljethliya&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=anchaljethliya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/anchaljethliya)  
-[![Email](https://img.shields.io/badge/-anchaljethliya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anchaljethliya@gmail.com)
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/anchaljethliya" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anchaljethliya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anchaljethliya" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-*Thanks for visiting! Let's build something amazing together 🚀*
+<p align="center"><b>✨ Thank you for visiting! Let's build something awesome together. ✨</b></p>
